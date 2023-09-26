@@ -20,6 +20,10 @@ int main() {
                 break;
 
         }
+
+        if (acc >= 256 || acc < 0) {
+            acc = 0;
+        }
     }
 
     return 0;
