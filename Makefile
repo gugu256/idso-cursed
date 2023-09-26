@@ -1,1 +1,1 @@
-gcc -o idso compiler.c
+gcc -o idso-cursed compiler.c
