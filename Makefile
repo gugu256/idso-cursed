@@ -1,1 +1,3 @@
-gcc -o idso-cursed compiler.c
+CC=gcc
+
+$(CC) -o idso-cursed compiler.c
