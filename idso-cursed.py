@@ -11,4 +11,4 @@ with open(argv[1] + ".c", "w") as f:
     f.write(file_content)
 
 os.system("gcc -o " + argv[1] + " " + argv[1] + ".c")
-os.remove(argv[1] + ".c")
+os.remove(argv[1] + ".c") # Cleanup
