@@ -7,7 +7,7 @@ A CURSED deadfish compiler
 You'll need these installed on your local machine :
  - gcc
 
-First, download the `compiler.py` file contained in this repo and put them in a directory on your local machine
+First, download the `idso-cursed.py` file contained in this repo and put them in a directory on your local machine
 
 You can now use the compiler to compile a deadfish program :
 
